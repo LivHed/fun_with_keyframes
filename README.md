@@ -1,26 +1,10 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Hi there
 
+#### Project
+This project is a part of the learning material at Code institute´s Full Stack Web Developer program.
+It´s all about learning animations and transformations. I have created an animated box and bouncing ball with keyframes and -webkit keyframes.
 
-Hi there! Welcome to Cloud9 IDE!
+#### Technologies used
+HTML, CSS in Cloud9 IDE, with Git, pushing to Github, where it´s also stored at the moment. 
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+[Click here to check it out](https://livhed.github.io/fun_with_keyframes/)
